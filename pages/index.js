@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Footer from '../comps/footer'
+import Footer from '../comps/Footer.js'
 import Link from 'next/link'
 import styles from './user.module.css';
 
