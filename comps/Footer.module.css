@@ -1,0 +1,12 @@
+
+.border{
+    border-top: solid black;
+    margin-top: 20px;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.links {
+    margin-top: 6px;
+}
