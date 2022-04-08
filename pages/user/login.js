@@ -1,5 +1,5 @@
 import { Link } from 'react-router';
-import Footer from '../../comps/footer';
+import Footer from '../../comps/Footer.js';
 import Loginform from '../../comps/loginform';
 import styles from '../user.module.css';
 

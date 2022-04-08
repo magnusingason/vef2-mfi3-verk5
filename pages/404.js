@@ -1,4 +1,4 @@
-import Footer from "../comps/footer";
+import Footer from "../comps/Footer.js";
 
 const error = () => {
     return (
