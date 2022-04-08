@@ -1,5 +1,8 @@
 {
-  "cacheDirectories": [".next/cache"],
+  "cacheDirectories": [
+    "node_modules/",
+    ".next/cache/"
+  ],
   "name": "vef2-mfi3-verk5",
   "version": "0.1.0",
   "private": true,
