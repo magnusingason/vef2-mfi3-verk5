@@ -15,11 +15,11 @@
     "styled-components": "^5.3.5",
     "styled-jsx": "^5.0.2"
   },
+  "cacheDirectories": {
+    "node_modules/"
+  },
   "engines": { 
     "node": "16.13.0" 
-  },
-  "cacheDirectories": [
-    "node_modules/",
-    ".next/cache/"
-  ]
+  }
+
 }
